@@ -1,7 +1,0 @@
-D:\Development\C#\Bitove manipulce\bin\Debug\Bitove manipulce.exe.config
-D:\Development\C#\Bitove manipulce\bin\Debug\Bitove manipulce.exe
-D:\Development\C#\Bitove manipulce\bin\Debug\Bitove manipulce.pdb
-D:\Development\C#\Bitove manipulce\obj\Debug\Bitove manipulce.csproj.AssemblyReference.cache
-D:\Development\C#\Bitove manipulce\obj\Debug\Bitove manipulce.csproj.CoreCompileInputs.cache
-D:\Development\C#\Bitove manipulce\obj\Debug\Bitove manipulce.exe
-D:\Development\C#\Bitove manipulce\obj\Debug\Bitove manipulce.pdb
